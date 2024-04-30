@@ -41,11 +41,8 @@ To install AnyGuard, simply download the latest version from the [GitHub reposit
 Q: Is AnyGuard free to use?
 A: Yes, AnyGuard is free and open-source software.
 
-Q: Can I encrypt multiple files at once with AnyGuard?
-A: Yes, you can select multiple files to encrypt simultaneously.
-
-Q: Is AnyGuard compatible with cloud storage services?
-A: Yes, you can encrypt files before uploading them to cloud storage for added security.
+Q: How can I ensure the security of my encrypted files?**
+A: AnyGuard uses advanced encryption algorithms like AES to secure your files. Additionally, you can set strong passwords for added protection.
 
 ## Technical Support
 
